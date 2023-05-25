@@ -15,15 +15,11 @@
 	 text-align:right;	
 }
 
-/* .container  .item-2 span{
-    position: relative;
-    right:-450px;
-} */
 h1{
 	margin:10px;
 	padding-top:10px;
 }
-/* .container  .item-1 span{
-    position: relative;
-    right:-450px;
-} */
+
+#name{
+font-style:text;
+}
